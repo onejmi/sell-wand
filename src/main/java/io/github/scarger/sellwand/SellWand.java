@@ -34,9 +34,7 @@ public class SellWand extends JavaPlugin {
     }
 
     @Override
-    public void onDisable() {
-
-    }
+    public void onDisable() {}
 
     public ItemStack getSellWand(int amount) {
         ItemStack wand = new ItemStack(Material.BLAZE_ROD, amount);
