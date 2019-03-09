@@ -1,0 +1,7 @@
+main: io.github.scarger.sellwand.SellWand
+name: SellWand
+version: 1.0
+depend: [Vault, Essentials]
+commands:
+  sellwand:
+    description: Used to perform actions such as granting sellwands

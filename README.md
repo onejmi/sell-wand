@@ -1,0 +1,1 @@
+`Sell Wand Plugin - Use gradle 'build' task to construct.`
